@@ -1,0 +1,22 @@
+RecordNo,Type,Component,Date,Value
+1,Income,Salary,2021-01-01,60000.0
+2,Income,Freelancig,2021-01-01,1000.0
+3,Savings,Mutual funds,2021-01-01,6000.0
+4,Savings,Emergency Fund,2021-01-01,2000.0
+5,Savings,Fixed Deposit,2021-01-01,2000.0
+6,Savings,Liquid Cash,2021-01-01,35600.0
+7,Expense,House Rent,2021-01-01,10000.0
+8,Expense,Groceries & Food,2021-01-01,6000.0
+9,Expense,Health,2021-01-01,1000.0
+10,Expense,EMIs,2021-01-01,2600.0
+11,Expense,Leisure,2021-01-01,600.0
+12,Expense,Shopping,2021-01-01,1000.0
+13,Expense,Trevel,2021-01-01,200.0
+14,Expense,Other,2021-01-01,100.0
+15,Target,Savings,2021-01-01,0.25
+16,Income,Salary,2021-02-01,60000.0
+17,Income,Freelancig,2021-02-01,1000.0
+18,Savings,Mutual funds,2021-02-01,6000.0
+19,Savings,Emergency Fund,2021-02-01,2000.0
+20,Savings,Fixed Deposit,2021-02-01,2000.0
+21,Savings,Liquid Cash,2021-02-01,34600.0
