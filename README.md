@@ -1,5 +1,4 @@
-# ETL-using-snowflake
-ETL using snowflake
+# ETL using Snowflake
 
 I created two tables LANDING_FINANCE_TABLE AND STAGING_FINANCE_TABLE and one stream LANDING_TO_FINANCE_TABLE.
 ![p11](https://github.com/user-attachments/assets/52af5b1b-e785-4385-a7ac-daaccf492e83)
