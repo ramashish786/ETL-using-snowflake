@@ -1,2 +1,20 @@
 # ETL-using-snowflake
 ETL using snowflake
+
+![p11](https://github.com/user-attachments/assets/52af5b1b-e785-4385-a7ac-daaccf492e83)
+![p12](https://github.com/user-attachments/assets/ceaa074e-c003-405e-bf93-c16cf7a97251)
+![1](https://github.com/user-attachments/assets/30713fb8-5bbe-4a98-8748-2b0eea41ad2e)
+![2](https://github.com/user-attachments/assets/57325198-1d74-40fa-8e55-b7c882d17542)
+![3](https://github.com/user-attachments/assets/db7e9c71-a420-4793-8e5d-e0c0e69d0507)
+![4](https://github.com/user-attachments/assets/5ea2c1f4-3d0c-41d9-94b2-d241242395f9)
+![5](https://github.com/user-attachments/assets/dea6e1c1-504f-42b3-b1e7-315aba89fc5d)
+![6](https://github.com/user-attachments/assets/e65546e5-9310-4f00-afe0-228945247d07)
+![7](https://github.com/user-attachments/assets/71e2fd64-78af-402a-b457-476dedc8a992)
+![st](https://github.com/user-attachments/assets/4a5c0fed-d5c9-4377-a2ea-c72c86f36ce4)
+![st1](https://github.com/user-attachments/assets/5997dec2-65fa-47a6-aa2d-ae09558c5629)
+![fs](https://github.com/user-attachments/assets/6d42c48b-f758-4cf0-8238-44455835224d)
+![cp](https://github.com/user-attachments/assets/b48df6d9-dd41-4f1a-a0e2-a57d127688cd)
+![nt](https://github.com/user-attachments/assets/2dbfff0e-4f3a-47eb-a19d-9c2a9e4bae45)
+![nt1](https://github.com/user-attachments/assets/defb436f-d366-4891-a77b-c520c47b792d)
+![snowpipe](https://github.com/user-attachments/assets/d21e0378-b38a-452e-b4ca-74a363a6b285)
+![nt2](https://github.com/user-attachments/assets/25c02523-bc1d-4c5a-a1b9-034b98589aa8)
