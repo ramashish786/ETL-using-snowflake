@@ -7,10 +7,11 @@ I created a task named TO_APPEND_FINANCE_TABLE
 ![p12](https://github.com/user-attachments/assets/ceaa074e-c003-405e-bf93-c16cf7a97251)
 
 Here I created a storage integration for the stage 
+
 ![st](https://github.com/user-attachments/assets/4a5c0fed-d5c9-4377-a2ea-c72c86f36ce4)
 
 Then Provided permission of Storage Blob Data Contributor 
-![st1](https://github.com/user-attachments/assets/5997dec2-65fa-47a6-aa2d-ae09558c5629
+![st1](https://github.com/user-attachments/assets/5997dec2-65fa-47a6-aa2d-ae09558c5629)
 
 Created a CSV file format and stage AZURE_ETL_STAGE
 ![fs](https://github.com/user-attachments/assets/6d42c48b-f758-4cf0-8238-44455835224d)
