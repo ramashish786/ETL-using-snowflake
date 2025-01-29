@@ -40,6 +40,19 @@ Below are snip testing of ETL
 We can see that data has been copied to LANDING_FINANCE_TABLE and STAGING_FINANCE_TABLE
 ![6](https://github.com/user-attachments/assets/e65546e5-9310-4f00-afe0-228945247d07)
 ![7](https://github.com/user-attachments/assets/71e2fd64-78af-402a-b457-476dedc8a992)
+Here I connected the data source to the Finance Dashboard
+![image](https://github.com/user-attachments/assets/ba71fdda-fb48-40a6-bf0e-369c5abe88f6)
+![image](https://github.com/user-attachments/assets/3f4391cf-763f-41bf-9a76-a99b18d7e80d)
+![image](https://github.com/user-attachments/assets/daeb2f00-d9fd-4536-828f-109be66984fe)
+![image](https://github.com/user-attachments/assets/27a70550-1007-4100-bdc8-4cf333bf8d73)
+![image](https://github.com/user-attachments/assets/01bce6cc-3c11-419e-b990-999ad3edbdeb)
+Here we can see data for 2021-01-01
+![image](https://github.com/user-attachments/assets/df29d00d-2d8f-4a2e-87f8-b5e1f5b6bfc6)
+
+
+
+
+
 
 
 
